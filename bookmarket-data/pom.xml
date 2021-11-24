@@ -33,8 +33,8 @@
     </dependency>
     <dependency>
     	<groupId>net.tncy.mne.validator</groupId>
-  		<artifactId>validation-constraints</artifactId>
-  		<version>1.0.0-SNAPSHOT</version>
+  <artifactId>validation-constraints</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
   	</dependency>
   </dependencies>
 
